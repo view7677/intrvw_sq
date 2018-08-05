@@ -1,0 +1,15 @@
+{
+  "cmfoodchain" : {
+    "branch" : [ {
+      "sumoforder" : "132.0",
+      "locationid" : "BOM-1234-456",
+      "location" : "\"Mumbai\"",
+      "totalcollection" : "124.0"
+    }, {
+      "sumoforder" : "132.0",
+      "locationid" : "BOM-1234-457",
+      "location" : "\"Mumbai\"",
+      "totalcollection" : "124.0"
+    } ]
+  }
+}
