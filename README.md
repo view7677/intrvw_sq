@@ -17,6 +17,7 @@
 * c) Junit Coverage Snapshot
  
 <img src="https://raw.githubusercontent.com/view7677/intrvw_sq/master/image_snapshot/Screenshot%20from%202018-08-05%2018-27-48.png" >
+
 [Coverage Snapshot](https://raw.githubusercontent.com/view7677/intrvw_sq/master/image_snapshot/Screenshot%20from%202018-08-05%2018-27-48.png)
 
 
