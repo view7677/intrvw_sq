@@ -17,9 +17,8 @@
 * c) Junit Coverage Snapshot
  
 <img src="https://raw.githubusercontent.com/view7677/intrvw_sq/master/image_snapshot/Screenshot%20from%202018-08-05%2018-27-48.png" >
-[Coverage Snapshot](https://github.com/view7677/intrvw_sq/blob/master/docs/img/Screenshot%20from%202018-08-05%2010-49-00.png)
-    
-Note: (You can link directly to the raw version of an image from your image folder. Hence from section 1.1 if your GIT Link is : https://github.com/nescafe2018/intrvw_stind , then you can have the following text in your readme ![SonarLint] (https://github.com/nescafe2018/intrvw_stind /<Link of you image) )
+[Coverage Snapshot](https://raw.githubusercontent.com/view7677/intrvw_sq/master/image_snapshot/Screenshot%20from%202018-08-05%2018-27-48.png)
+
 
 ## Section 4 
 
